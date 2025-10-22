@@ -35,12 +35,12 @@ This project goes over how to edit the Group Policy of a Domain using Group Poli
 
 <div style="text-align:center;">
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: Group Policy = the rules of a user group (password length, etc)</b></span>  
-<br/><br/><br/><br/>
+<br/><br/>
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	Two ways to get to Group Policy Manager: 1) Server Manager  (AND)  2) Windows search: Group Policy Management</b></span>  
-<br/><br/>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: Two ways to get to Group Policy Manager: 1) Server Manager  (AND)  2) Windows search: Group Policy Management</b></span>  
+<br/><br/><br/><br/>
 
 
 <div style="text-align:center;">
